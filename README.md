@@ -12,3 +12,4 @@ running:
 
 Version2: mysqlClientLinux2.cpp is the source file,packing the C API of MySql to the MySql class. So, wo can use the MySql class to create a object to operate the database.
 
+
